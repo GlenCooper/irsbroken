@@ -30,3 +30,5 @@ Return to IRS.gov home
 Error from: https://sa.www4.irs.gov/ola/
 Reference ID: 3.4a3b2f17.1754874701.28123ae9
 ", https://drive.google.com/file/d/1NF2kpgNb3OgE8uAVeleT2HzonM8WR68h/view?usp=sharing
+  
+20250813T013945Z: I thought to try a Firefox Private browser instea of my normal Firefox browser.  It worked.  I was able to log in successfully after verifying my phone number.  I made a payment successfully.  Social Security should fix whatever problem I was encountering so it's not just that generic broken message.  I'm probably not the only one who's receiving that failed login attempt message.  Not everyone else would think to try a different browser.  There should at least be an error message that makes sense instead of "We apologize but there seems to be an issue completing your request. Please try again in a few minutes."
