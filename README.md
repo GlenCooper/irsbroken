@@ -21,7 +21,8 @@ We apologize but there seems to be an issue completing your request. Please try 
 Return to IRS.gov home
 
 Error from: https://sa.www4.irs.gov/ola/
-Reference ID: 3.c5b03b17.1754750918.6d4f39f2", https://drive.google.com/file/d/10tJZc8xq3z58eZqN__xhoN00c3kKMqI2/view?usp=sharing  
+Reference ID: 3.c5b03b17.1754750918.6d4f39f2", https://drive.google.com/file/d/10tJZc8xq3z58eZqN__xhoN00c3kKMqI2/view?usp=sharing:
+<img width="1176" height="702" alt="Screenshot from 2025-08-09 14-48-59" src="https://github.com/user-attachments/assets/cf8b5891-a7e2-4b20-881d-4beff13a99b3" />  
 
 20250811T011329Z: tried to log in to pay.  FAIL. ERROR: "Your request could not be completed ...
 We apologize but there seems to be an issue completing your request. Please try again in a few minutes.
