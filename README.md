@@ -8,7 +8,7 @@ irs.gov website is unable to accept logins so often that I cannot make payments 
 _previously recorded in my own notes:_  
 
 20250806T183303Z: tried to log in to pay.  FAIL. ERROR: "Your request could not be completed ...
-We apologize but there seems to be an issue completing your request. Please try again in a few minutes."
+We apologize but there seems to be an issue completing your request. Please try again in a few minutes."  
 20250808T214939Z: tried to log in to pay.  FAIL. ERROR: "Your request could not be completed ...
 We apologize but there seems to be an issue completing your request. Please try again in a few minutes.
 Return to IRS.gov home
