@@ -7,21 +7,24 @@ irs.gov website is unable to accept logins so often that I cannot make payments 
 
 _previously recorded in my own notes:_  
 
-20250806T183303Z: tried to log in to pay.  FAIL. ERROR: "Your request could not be completed ...
-We apologize but there seems to be an issue completing your request. Please try again in a few minutes."  
-20250808T214939Z: tried to log in to pay.  FAIL. ERROR: "Your request could not be completed ...
-We apologize but there seems to be an issue completing your request. Please try again in a few minutes.
-Return to IRS.gov home
+20250806T183303Z: tried to log in to pay.  FAIL. ERROR:
+> "Your request could not be completed ...  
+> We apologize but there seems to be an issue completing your request. Please try again in a few minutes."  
 
-Error from: https://sa.www4.irs.gov/ola/
-Reference ID: 3.5b3b2f17.1754689805.223640d5"  
+20250808T214939Z: tried to log in to pay.  FAIL.  
+Error from: https://sa.www4.irs.gov/ola/:  
+> "Your request could not be completed ...  
+> We apologize but there seems to be an issue completing your request. Please try again in a few minutes.  
+> Return to IRS.gov home
+> Reference ID: 3.5b3b2f17.1754689805.223640d5"  
 
-20250809T144953Z: tried to log in to pay.  Down again.  "Your request could not be completed ...
-We apologize but there seems to be an issue completing your request. Please try again in a few minutes.
-Return to IRS.gov home
-
-Error from: https://sa.www4.irs.gov/ola/
-Reference ID: 3.c5b03b17.1754750918.6d4f39f2", https://drive.google.com/file/d/10tJZc8xq3z58eZqN__xhoN00c3kKMqI2/view?usp=sharing:
+20250809T144953Z: tried to log in to pay.  Down again.  
+Error from: https://sa.www4.irs.gov/ola/  
+> "Your request could not be completed ...  
+> We apologize but there seems to be an issue completing your request. Please try again in a few minutes.  
+> Return to IRS.gov home  
+> Reference ID: 3.c5b03b17.1754750918.6d4f39f2"
+https://drive.google.com/file/d/10tJZc8xq3z58eZqN__xhoN00c3kKMqI2/view?usp=sharing:  
 <img width="1176" height="702" alt="Screenshot from 2025-08-09 14-48-59" src="https://github.com/user-attachments/assets/cf8b5891-a7e2-4b20-881d-4beff13a99b3" />  
 
 20250811T011329Z: tried to log in to pay.  FAIL. ERROR: "Your request could not be completed ...
