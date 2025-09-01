@@ -19,20 +19,23 @@ Error from: https://sa.www4.irs.gov/ola/:
 > Reference ID: 3.5b3b2f17.1754689805.223640d5"  
 
 20250809T144953Z: tried to log in to pay.  Down again.  
-Error from: https://sa.www4.irs.gov/ola/  
+Error from: https://sa.www4.irs.gov/ola/:  
 > "Your request could not be completed ...  
 > We apologize but there seems to be an issue completing your request. Please try again in a few minutes.  
 > Return to IRS.gov home  
-> Reference ID: 3.c5b03b17.1754750918.6d4f39f2"
-https://drive.google.com/file/d/10tJZc8xq3z58eZqN__xhoN00c3kKMqI2/view?usp=sharing:  
+> Reference ID: 3.c5b03b17.1754750918.6d4f39f2"  
+
+https://drive.google.com/file/d/10tJZc8xq3z58eZqN__xhoN00c3kKMqI2/view?usp=sharing:    
 <img width="1176" height="702" alt="Screenshot from 2025-08-09 14-48-59" src="https://github.com/user-attachments/assets/cf8b5891-a7e2-4b20-881d-4beff13a99b3" />  
 
-20250811T011329Z: tried to log in to pay.  FAIL. ERROR: "Your request could not be completed ...
-We apologize but there seems to be an issue completing your request. Please try again in a few minutes.
-Return to IRS.gov home
-
-Error from: https://sa.www4.irs.gov/ola/
-Reference ID: 3.4a3b2f17.1754874701.28123ae9", https://drive.google.com/file/d/1NF2kpgNb3OgE8uAVeleT2HzonM8WR68h/view?usp=sharing:  
+20250811T011329Z: tried to log in to pay.  FAIL. 
+Error from: https://sa.www4.irs.gov/ola/:  
+> "Your request could not be completed ...  
+> We apologize but there seems to be an issue completing your request. Please try again in a few minutes.  
+> Return to IRS.gov home
+> Reference ID: 3.4a3b2f17.1754874701.28123ae9"  
+  
+https://drive.google.com/file/d/1NF2kpgNb3OgE8uAVeleT2HzonM8WR68h/view?usp=sharing:  
 <img width="1396" height="614" alt="Screenshot from 2025-08-11 01-12-24" src="https://github.com/user-attachments/assets/c313c754-9dcf-4e38-bf1a-9f3ec689fc56" />  
   
 20250813T013945Z: I thought to try a Firefox Private browser instea of my normal Firefox browser.  It worked.  I was able to log in successfully after verifying my phone number.  I made a payment successfully.  Social Security should fix whatever problem I was encountering so it's not just that generic broken message.  I'm probably not the only one who's receiving that failed login attempt message.  Not everyone else would think to try a different browser.  There should at least be an error message that makes sense instead of "We apologize but there seems to be an issue completing your request. Please try again in a few minutes."  
